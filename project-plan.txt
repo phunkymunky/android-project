@@ -1,0 +1,29 @@
+Mear Technology Travel and mileage recording app.
+
+1. Data required (input)
+
+Vehicle details dropdown - list of current authorised vehicles.
+- ability to add new vehicle.
+- choice of company and/or personal vehicle.
+
+Date - auto populated by app.
+Time - auto populated by app.
+User - auto populated by app (using accoutn/phone details).
+Destination - dropdown/searchable field + option to enter new destination. This will most likely be a client name and/or site i.e. if client has 2 or more sites able to choose which site.
+Current mileage reading  - auto populate from previous reading for selected vehicle.
+- if new vehicle enter initial reading. 
+- confirm reading, edit if incorrect i.e. personal vehicle may have large gaps as not normally used for work and personal use not covered.
+- note field to allow entry of resason for any discrepancy i.e. forgot to log etc.
+
+2. Basic Functionality
+
+Sync data so that multiple users can see latest readings.
+Website to allow for administration, add/remove/disable users and vehicles etc.
+function to allow printing of mileage per user/per vvehicle. Print milegage exspense form for personalvehicle use.
+
+3. Nice to have!
+
+GPS tracking.
+Parking costs (Ring-go integration if this is possible), attach screenshot of ring-go transaction to journey.
+Vehicle tracking - admin accecss to see where vehicle is located (dependent on GPS function above).
+Barcode/QR code reading - each vehicle has a code associated (keyfob/ sticker on dash etc.)
