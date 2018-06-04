@@ -1,4 +1,4 @@
-Mear Technology Travel and mileage recording app.
+Travel and mileage recording app.
 
 1. Data required (input)
 
